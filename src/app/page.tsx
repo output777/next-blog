@@ -1,3 +1,3 @@
 export default function HomePage() {
-  return <section className="bg-gray-500">main</section>;
+  return <section className="h-full w-full bg-slate-900"></section>;
 }
